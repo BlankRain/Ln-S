@@ -4,6 +4,6 @@
 
 Ln : link
 
-S  : symbol
+S  : symbol, script
 
 
